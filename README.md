@@ -12,7 +12,7 @@
 • 230V AC Supply: Input power for the circuit.
 
 
-** #Circuit Operation**
+**#Circuit Operation**
 • The RC network delays the phase of the AC voltage.
 • The capacitor charges until the Diac triggers the Triac.
 • The Triac controls the current flow to the load based on the phase angle.
