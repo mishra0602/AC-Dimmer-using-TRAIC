@@ -7,7 +7,7 @@
 • Diac (C89621): Provides a triggering pulse to the gate of the Triac.
 • Resistors (R1 and R2): Limit current and provide a voltage divider network.
 • Potentiometer (POT, 500K): Allows the user to adjust the phase angle of the AC waveform.
-• Capacitors (C1 and C2, 100nF): Form an RC timing circuit for smooth phase angle adjustment.
+• Capacitors (C1 and C2, 100nF): Form an RC timing circuit for smooth phase angle adjustment. 
 • AC Load: The device being controlled (e.g., a lamp or motor).
 • 230V AC Supply: Input power for the circuit.
 
